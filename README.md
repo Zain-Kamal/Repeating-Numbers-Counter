@@ -1,6 +1,6 @@
 # Repeating-Numbers-Counter
 ## C++ code that counts the amount of repeating numbers in an interval
-
+Repeating numbers are the ones in which all the digits are similar like 11, 111, 222, 5555, etc.
 
 ```
 #include <iostream>
